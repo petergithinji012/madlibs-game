@@ -1,0 +1,8 @@
+Country=input("Enter the country's name")
+colour=input("Enter the colour")
+climate=input("Enter the state of the climate")
+
+  print(Country+"is a peaceful country")
+  print("Its vegetation is"+colour)
+  print("Its has a"+ climate)
+  
